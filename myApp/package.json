@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/training4developers/node_03232016.git"
+    "url": "git@github.com:billyean/nodes.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/training4developers/node_03232016/issues"
+    "url": "git@github.com:billyean/nodes.git/issues"
   },
-  "homepage": "https://github.com/training4developers/node_03232016#readme",
+  "homepage": "git@github.com:billyean/nodes.git#readme",
   "dependencies": {
     "@training4developers/ewg-demo-08": "^1.0.4",
     "body-parser": "^1.15.0",

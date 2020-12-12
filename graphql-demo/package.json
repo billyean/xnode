@@ -1,0 +1,18 @@
+{
+  "name": "graphql-demo",
+  "version": "1.0.0",
+  "description": "Graphql demo application",
+  "main": "app.js",
+  "dependencies": {
+    "apollo-server": "^2.19.0",
+    "apollo-server-express": "^2.19.0",
+    "express": "^4.17.1",
+    "graphql": "^15.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Haibo Yan",
+  "license": "ISC"
+}
